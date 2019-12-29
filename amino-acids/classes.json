@@ -1,0 +1,103 @@
+{
+  "Hydrophobic": {
+    "abbr": "Φ",
+    "members": [
+      "V",
+      "I",
+      "L",
+      "F",
+      "W",
+      "Y",
+      "M"
+    ],
+    "codons": [
+      "NTN",
+      "TAY",
+      "TGG"
+    ]
+  },
+  "Aromatic": {
+    "abbr": "Ω",
+    "members": [
+      "F",
+      "W",
+      "Y",
+      "H"
+    ],
+    "codons": [
+      "YWY",
+      "TTY",
+      "TGG"
+    ]
+  },
+  "Aliphatic (non-aromatic)": {
+    "abbr": "Ψ",
+    "members": [
+      "V",
+      "I",
+      "L",
+      "M"
+    ],
+    "codons": [
+      "VTN",
+      "TTR"
+    ]
+  },
+  "Small": {
+    "abbr": "π",
+    "members": [
+      "P",
+      "G",
+      "A",
+      "S"
+    ],
+    "codons": [
+      "BCN",
+      "RGY",
+      "GGR"
+    ]
+  },
+  "Hydrophilic": {
+    "abbr": "ζ",
+    "members": [
+      "S",
+      "T",
+      "H",
+      "N",
+      "Q",
+      "E",
+      "D",
+      "K",
+      "R"
+    ],
+    "codons": [
+      "VAN",
+      "WCN",
+      "CGN",
+      "AGY"
+    ]
+  },
+  "Positively charged": {
+    "abbr": "+",
+    "members": [
+      "K",
+      "R",
+      "H"
+    ],
+    "codons": [
+      "ARR",
+      "CRY",
+      "CGR"
+    ]
+  },
+  "Negatively charged": {
+    "abbr": "−",
+    "members": [
+      "D",
+      "E"
+    ],
+    "codons": [
+      "GAN"
+    ]
+  }
+}

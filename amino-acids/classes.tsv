@@ -1,0 +1,7 @@
+Hydrophobic	Φ	V, I, L, F, W, Y, M	NTN, TAY, TGG
+Aromatic	Ω	F, W, Y, H	YWY, TTY, TGG (coding codons can also be expressed by: TWY, CAY, TGG)
+Aliphatic (non-aromatic)	Ψ	V, I, L, M	VTN, TTR (coding codons can also be expressed by: NTR, VTY)
+Small	π	P, G, A, S	BCN, RGY, GGR
+Hydrophilic	ζ	S, T, H, N, Q, E, D, K, R	VAN, WCN, CGN, AGY (coding codons can also be expressed by: VAN, WCN, MGY, CGP)
+Positively charged	+	K, R, H	ARR, CRY, CGR
+Negatively charged	−	D, E	GAN
