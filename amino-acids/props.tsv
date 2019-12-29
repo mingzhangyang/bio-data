@@ -1,5 +1,5 @@
 full_name	3-letter	abbr	side_chain_class	side_chain_polarity	hydropathy_index	absorbance	molar_attenuation_coefficient	molecular_weight	occurrence_ratio	genetic_code
-Alanine Ala	A	aliphatic	nonpolar	neutral	1.8	null	null	89.094	8.76	GCN
+Alanine   Ala	A	aliphatic	nonpolar	neutral	1.8	null	null	89.094	8.76	GCN
 Arginine	Arg	R	basic	basic polar	positive	−4.5	null	null	174.203	5.78	MGN, CGY (coding codons can also be expressed by: CGN, AGR)
 Asparagine	Asn	N	amide	polar	neutral	−3.5	null	null	132.119	3.93	AAY
 Aspartic acid	Asp	D	acid	acidic polar	negative	−3.5	null	null	133.104	5.49	GAY
