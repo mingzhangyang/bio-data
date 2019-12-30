@@ -1,1 +1,0 @@
-Source: Wikipedia (https://en.wikipedia.org/wiki/Amino_acid)
